@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysncrypt",
+        "uuid": 9344790,
+        "checksum": "stpemh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
